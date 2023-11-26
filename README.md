@@ -1,3 +1,16 @@
+![First](https://github.com/AliSalehiAhmadabad/ResearchTrack_1st_Assignment/assets/150590478/d9624b19-f32e-47f9-8687-956401419374)
+figure1)Initial configuration
+
+![final](https://github.com/AliSalehiAhmadabad/ResearchTrack_1st_Assignment/assets/150590478/47b2bb95-34a5-4eb0-ac8a-1273c65dc585)
+figure2)Final configuration
+
+![Diagram_alisalehi](https://github.com/AliSalehiAhmadabad/ResearchTrack_1st_Assignment/assets/150590478/3829641e-1c9b-4c83-952b-6a33660c0051)
+figure3)Flow chart diagram
+
+
+
+
+
 Python Robotics Simulator
 ================================
 
